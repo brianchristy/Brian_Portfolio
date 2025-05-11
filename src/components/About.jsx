@@ -1,5 +1,5 @@
 import React from 'react';
-import aboutProfile from '../assetshidden/about_pic.JPEG';
+import aboutProfile from '../assets/about_pic.JPEG';
 
 const About = () => {
   const skills = [

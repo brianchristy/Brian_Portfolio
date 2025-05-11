@@ -1,5 +1,5 @@
 import React from 'react';
-import profileImg from '../assetshidden/profile_pic_new.JPEG';
+import profileImg from '../assets/profile_pic_new.JPEG';
 import themePattern from '../assets/theme_pattern.svg';
 
 const Hero = () => {
